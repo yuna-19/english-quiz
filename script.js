@@ -1,5 +1,3 @@
-console.log("script loaded");
-
 let words = [];
 
 async function init() {
@@ -47,7 +45,7 @@ function loadQuestion() {
   choices.forEach(choice => {
 
     const btn = document.createElement("button");
-
+    btn.className = "choice-btn";
     btn.textContent = choice;
 
     btn.onclick = () => {
