@@ -1,12 +1,102 @@
 [
-  {"word":"apple","meaning":"りんご"},
-  {"word":"dog","meaning":"犬"},
-  {"word":"cat","meaning":"猫"},
-  {"word":"book","meaning":"本"},
-  {"word":"car","meaning":"車"},
-  {"word":"water","meaning":"水"},
-  {"word":"house","meaning":"家"},
-  {"word":"school","meaning":"学校"},
-  {"word":"computer","meaning":"コンピュータ"},
-  {"word":"happy","meaning":"幸せな"}
+  {
+    "word": "apple",
+    "meaning": "りんご",
+    "level": "中学",
+    "eiken": "5級",
+    "toeic": 300,
+    "partOfSpeech": "名詞",
+    "example": "I eat an apple every morning.",
+    "example_jp": "私は毎朝りんごを食べます。"
+  },
+  {
+    "word": "beautiful",
+    "meaning": "美しい",
+    "level": "中学",
+    "eiken": "4級",
+    "toeic": 350,
+    "partOfSpeech": "形容詞",
+    "example": "This flower is beautiful.",
+    "example_jp": "この花は美しいです。"
+  },
+  {
+    "word": "decide",
+    "meaning": "決定する",
+    "level": "中学",
+    "eiken": "3級",
+    "toeic": 450,
+    "partOfSpeech": "動詞",
+    "example": "I decided to study English.",
+    "example_jp": "私は英語を勉強することに決めた。"
+  },
+  {
+    "word": "improve",
+    "meaning": "改善する",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 500,
+    "partOfSpeech": "動詞",
+    "example": "She wants to improve her skills.",
+    "example_jp": "彼女は自分の技能を向上させたい。"
+  },
+  {
+    "word": "purchase",
+    "meaning": "購入する",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 600,
+    "partOfSpeech": "動詞",
+    "example": "I purchased a new laptop.",
+    "example_jp": "私は新しいノートパソコンを購入した。"
+  },
+  {
+    "word": "schedule",
+    "meaning": "予定",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 600,
+    "partOfSpeech": "名詞",
+    "example": "Please check the meeting schedule.",
+    "example_jp": "会議の予定を確認してください。"
+  },
+  {
+    "word": "customer",
+    "meaning": "顧客",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 650,
+    "partOfSpeech": "名詞",
+    "example": "The customer asked a question.",
+    "example_jp": "その顧客は質問をした。"
+  },
+  {
+    "word": "opportunity",
+    "meaning": "機会",
+    "level": "高校",
+    "eiken": "2級",
+    "toeic": 700,
+    "partOfSpeech": "名詞",
+    "example": "This is a great opportunity.",
+    "example_jp": "これは素晴らしい機会です。"
+  },
+  {
+    "word": "efficient",
+    "meaning": "効率的な",
+    "level": "高校上級",
+    "eiken": "2級",
+    "toeic": 750,
+    "partOfSpeech": "形容詞",
+    "example": "She is an efficient worker.",
+    "example_jp": "彼女は効率的な働き手です。"
+  },
+  {
+    "word": "negotiate",
+    "meaning": "交渉する",
+    "level": "大学・社会人",
+    "eiken": "準1級",
+    "toeic": 850,
+    "partOfSpeech": "動詞",
+    "example": "They negotiated a new contract.",
+    "example_jp": "彼らは新しい契約について交渉した。"
+  }
 ]
