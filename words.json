@@ -1,0 +1,13 @@
+[
+  {"word":"apple","meaning":"りんご"},
+  {"word":"dog","meaning":"犬"},
+  {"word":"cat","meaning":"猫"},
+  {"word":"book","meaning":"本"},
+  {"word":"car","meaning":"車"},
+  {"word":"water","meaning":"水"},
+  {"word":"house","meaning":"家"},
+  {"word":"school","meaning":"学校"},
+  {"word":"computer","meaning":"コンピュータ"},
+  {"word":"happy","meaning":"幸せな"}
+]
+``

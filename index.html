@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>英単語クイズ</title>
+  <style>
+    body {
+      text-align: center;
+      font-family: sans-serif;
+      margin-top: 50px;
+    }
+
+    button {
+      display: block;
+      width: 200px;
+      margin: 10px auto;
+      padding: 10px;
+      font-size: 16px;
+    }
+
+    #word {
+      font-size: 36px;
+      margin-bottom: 30px;
+    }
+
+    #result {
+      margin-top: 20px;
+      font-size: 24px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>英単語クイズ</h1>
+
+  <div id="word"></div>
+
+  <div id="choices"></div>
+
+  <div id="result"></div>
+
+  <button onclick="loadQuestion()">
+    次の問題
+  </button>
+
+<script src="script.js"></script>
+</body>
+</html>
