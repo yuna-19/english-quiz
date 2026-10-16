@@ -98,5 +98,515 @@
     "partOfSpeech": "動詞",
     "example": "They negotiated a new contract.",
     "example_jp": "彼らは新しい契約について交渉した。"
+  },
+  {
+    "word": "accept",
+    "meaning": "受け入れる",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 550,
+    "partOfSpeech": "動詞",
+    "example": "She accepted the job offer.",
+    "example_jp": "彼女はその仕事の申し出を受け入れた。"
+  },
+  {
+    "word": "activity",
+    "meaning": "活動",
+    "level": "中学",
+    "eiken": "3級",
+    "toeic": 450,
+    "partOfSpeech": "名詞",
+    "example": "Outdoor activities are popular here.",
+    "example_jp": "ここでは屋外活動が人気です。"
+  },
+  {
+    "word": "attend",
+    "meaning": "出席する",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 550,
+    "partOfSpeech": "動詞",
+    "example": "I attended the meeting yesterday.",
+    "example_jp": "私は昨日その会議に出席した。"
+  },
+  {
+    "word": "available",
+    "meaning": "利用可能な",
+    "level": "高校",
+    "eiken": "2級",
+    "toeic": 700,
+    "partOfSpeech": "形容詞",
+    "example": "The room is available now.",
+    "example_jp": "その部屋は現在利用可能です。"
+  },
+  {
+    "word": "career",
+    "meaning": "経歴",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 650,
+    "partOfSpeech": "名詞",
+    "example": "She has had a successful career.",
+    "example_jp": "彼女は成功した経歴を持っている。"
+  },
+  {
+    "word": "compare",
+    "meaning": "比較する",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 550,
+    "partOfSpeech": "動詞",
+    "example": "Let's compare these two products.",
+    "example_jp": "この2つの製品を比較してみよう。"
+  },
+  {
+    "word": "confirm",
+    "meaning": "確認する",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 600,
+    "partOfSpeech": "動詞",
+    "example": "Please confirm your reservation.",
+    "example_jp": "予約内容を確認してください。"
+  },
+  {
+    "word": "delivery",
+    "meaning": "配達",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 600,
+    "partOfSpeech": "名詞",
+    "example": "The delivery arrived on time.",
+    "example_jp": "配達は時間どおりに到着した。"
+  },
+  {
+    "word": "discount",
+    "meaning": "割引",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 650,
+    "partOfSpeech": "名詞",
+    "example": "We received a special discount.",
+    "example_jp": "私たちは特別割引を受けた。"
+  },
+  {
+    "word": "experience",
+    "meaning": "経験",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 550,
+    "partOfSpeech": "名詞",
+    "example": "Work experience is important.",
+    "example_jp": "職務経験は重要です。"
+  },
+  {
+    "word": "education",
+    "meaning": "教育",
+    "level": "高校",
+    "eiken": "3級",
+    "toeic": 500,
+    "partOfSpeech": "名詞",
+    "example": "Education is important for everyone.",
+    "example_jp": "教育は誰にとっても重要です。"
+  },
+  {
+    "word": "employee",
+    "meaning": "従業員",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 600,
+    "partOfSpeech": "名詞",
+    "example": "The employee answered the customer.",
+    "example_jp": "その従業員は顧客に対応した。"
+  },
+  {
+    "word": "equipment",
+    "meaning": "設備",
+    "level": "高校",
+    "eiken": "2級",
+    "toeic": 700,
+    "partOfSpeech": "名詞",
+    "example": "The equipment is easy to use.",
+    "example_jp": "その設備は使いやすい。"
+  },
+  {
+    "word": "event",
+    "meaning": "イベント",
+    "level": "中学",
+    "eiken": "3級",
+    "toeic": 450,
+    "partOfSpeech": "名詞",
+    "example": "Many people attended the event.",
+    "example_jp": "多くの人がそのイベントに参加した。"
+  },
+  {
+    "word": "factory",
+    "meaning": "工場",
+    "level": "高校",
+    "eiken": "3級",
+    "toeic": 500,
+    "partOfSpeech": "名詞",
+    "example": "This factory produces cars.",
+    "example_jp": "この工場は車を製造している。"
+  },
+  {
+    "word": "feature",
+    "meaning": "特徴",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 600,
+    "partOfSpeech": "名詞",
+    "example": "The phone has many useful features.",
+    "example_jp": "その電話には便利な機能がたくさんある。"
+  },
+  {
+    "word": "finance",
+    "meaning": "財務",
+    "level": "高校上級",
+    "eiken": "2級",
+    "toeic": 750,
+    "partOfSpeech": "名詞",
+    "example": "She works in finance.",
+    "example_jp": "彼女は財務部門で働いている。"
+  },
+  {
+    "word": "forecast",
+    "meaning": "予測",
+    "level": "高校",
+    "eiken": "2級",
+    "toeic": 700,
+    "partOfSpeech": "名詞",
+    "example": "The forecast predicts rain tomorrow.",
+    "example_jp": "予報では明日雨になるそうだ。"
+  },
+  {
+    "word": "goal",
+    "meaning": "目標",
+    "level": "中学",
+    "eiken": "3級",
+    "toeic": 450,
+    "partOfSpeech": "名詞",
+    "example": "My goal is to pass the TOEIC test.",
+    "example_jp": "私の目標はTOEICに合格することだ。"
+  },
+  {
+    "word": "insurance",
+    "meaning": "保険",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 700,
+    "partOfSpeech": "名詞",
+    "example": "The company provides health insurance.",
+    "example_jp": "その会社は健康保険を提供している。"
+  },
+  {
+    "word": "interview",
+    "meaning": "面接",
+    "level": "中学",
+    "eiken": "3級",
+    "toeic": 500,
+    "partOfSpeech": "名詞",
+    "example": "I have a job interview tomorrow.",
+    "example_jp": "私は明日就職面接がある。"
+  },
+  {
+    "word": "invoice",
+    "meaning": "請求書",
+    "level": "高校",
+    "eiken": "2級",
+    "toeic": 750,
+    "partOfSpeech": "名詞",
+    "example": "Please send the invoice by email.",
+    "example_jp": "請求書をメールで送ってください。"
+  },
+  {
+    "word": "launch",
+    "meaning": "開始する",
+    "level": "高校",
+    "eiken": "2級",
+    "toeic": 700,
+    "partOfSpeech": "動詞",
+    "example": "The company launched a new service.",
+    "example_jp": "その会社は新しいサービスを開始した。"
+  },
+  {
+    "word": "location",
+    "meaning": "場所",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 550,
+    "partOfSpeech": "名詞",
+    "example": "The store is in a convenient location.",
+    "example_jp": "その店は便利な場所にある。"
+  },
+  {
+    "word": "maintain",
+    "meaning": "維持する",
+    "level": "高校",
+    "eiken": "2級",
+    "toeic": 700,
+    "partOfSpeech": "動詞",
+    "example": "We must maintain quality.",
+    "example_jp": "私たちは品質を維持しなければならない。"
+  },
+  {
+    "word": "market",
+    "meaning": "市場",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 600,
+    "partOfSpeech": "名詞",
+    "example": "The company entered a new market.",
+    "example_jp": "その会社は新しい市場に参入した。"
+  },
+  {
+    "word": "member",
+    "meaning": "会員",
+    "level": "中学",
+    "eiken": "3級",
+    "toeic": 450,
+    "partOfSpeech": "名詞",
+    "example": "She is a club member.",
+    "example_jp": "彼女はクラブの会員だ。"
+  },
+  {
+    "word": "offer",
+    "meaning": "提供する",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 600,
+    "partOfSpeech": "動詞",
+    "example": "They offer free delivery.",
+    "example_jp": "彼らは無料配送を提供している。"
+  },
+  {
+    "word": "order",
+    "meaning": "注文",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 550,
+    "partOfSpeech": "名詞",
+    "example": "Your order has been shipped.",
+    "example_jp": "あなたの注文は発送された。"
+  },
+  {
+    "word": "organization",
+    "meaning": "組織",
+    "level": "高校",
+    "eiken": "2級",
+    "toeic": 700,
+    "partOfSpeech": "名詞",
+    "example": "The organization supports education.",
+    "example_jp": "その組織は教育を支援している。"
+  },
+  {
+    "word": "performance",
+    "meaning": "業績",
+    "level": "高校",
+    "eiken": "2級",
+    "toeic": 700,
+    "partOfSpeech": "名詞",
+    "example": "The company's performance improved.",
+    "example_jp": "その会社の業績は改善した。"
+  },
+  {
+    "word": "prepare",
+    "meaning": "準備する",
+    "level": "中学",
+    "eiken": "3級",
+    "toeic": 450,
+    "partOfSpeech": "動詞",
+    "example": "We prepared for the meeting.",
+    "example_jp": "私たちは会議の準備をした。"
+  },
+  {
+    "word": "price",
+    "meaning": "価格",
+    "level": "中学",
+    "eiken": "3級",
+    "toeic": 450,
+    "partOfSpeech": "名詞",
+    "example": "The price is reasonable.",
+    "example_jp": "その価格は妥当です。"
+  },
+  {
+    "word": "quality",
+    "meaning": "品質",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 650,
+    "partOfSpeech": "名詞",
+    "example": "Quality is our priority.",
+    "example_jp": "品質は私たちの最優先事項です。"
+  },
+  {
+    "word": "receive",
+    "meaning": "受け取る",
+    "level": "中学",
+    "eiken": "3級",
+    "toeic": 500,
+    "partOfSpeech": "動詞",
+    "example": "I received an email today.",
+    "example_jp": "私は今日メールを受け取った。"
+  },
+  {
+    "word": "reservation",
+    "meaning": "予約",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 650,
+    "partOfSpeech": "名詞",
+    "example": "I made a hotel reservation.",
+    "example_jp": "私はホテルの予約をした。"
+  },
+  {
+    "word": "resource",
+    "meaning": "資源",
+    "level": "高校",
+    "eiken": "2級",
+    "toeic": 700,
+    "partOfSpeech": "名詞",
+    "example": "Water is an important resource.",
+    "example_jp": "水は重要な資源です。"
+  },
+  {
+    "word": "responsible",
+    "meaning": "責任がある",
+    "level": "高校",
+    "eiken": "2級",
+    "toeic": 700,
+    "partOfSpeech": "形容詞",
+    "example": "He is responsible for the project.",
+    "example_jp": "彼はその計画に責任がある。"
+  },
+  {
+    "word": "salary",
+    "meaning": "給与",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 650,
+    "partOfSpeech": "名詞",
+    "example": "Her salary increased this year.",
+    "example_jp": "彼女の給与は今年上がった。"
+  },
+  {
+    "word": "shipment",
+    "meaning": "発送",
+    "level": "高校",
+    "eiken": "2級",
+    "toeic": 700,
+    "partOfSpeech": "名詞",
+    "example": "The shipment was delayed.",
+    "example_jp": "その発送は遅れた。"
+  },
+  {
+    "word": "solution",
+    "meaning": "解決策",
+    "level": "高校",
+    "eiken": "2級",
+    "toeic": 650,
+    "partOfSpeech": "名詞",
+    "example": "We found a solution to the problem.",
+    "example_jp": "私たちはその問題の解決策を見つけた。"
+  },
+  {
+    "word": "staff",
+    "meaning": "職員",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 600,
+    "partOfSpeech": "名詞",
+    "example": "The staff were very helpful.",
+    "example_jp": "職員はとても親切だった。"
+  },
+  {
+    "word": "suggest",
+    "meaning": "提案する",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 600,
+    "partOfSpeech": "動詞",
+    "example": "I suggest a different approach.",
+    "example_jp": "私は別の方法を提案します。"
+  },
+  {
+    "word": "training",
+    "meaning": "研修",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 650,
+    "partOfSpeech": "名詞",
+    "example": "The training starts next week.",
+    "example_jp": "研修は来週始まる。"
+  },
+  {
+    "word": "update",
+    "meaning": "更新する",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 600,
+    "partOfSpeech": "動詞",
+    "example": "Please update the document.",
+    "example_jp": "その文書を更新してください。"
+  },
+  {
+    "word": "achieve",
+    "meaning": "達成する",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 600,
+    "partOfSpeech": "動詞",
+    "example": "She achieved her goal.",
+    "example_jp": "彼女は目標を達成した。"
+  },
+  {
+    "word": "branch",
+    "meaning": "支店",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 650,
+    "partOfSpeech": "名詞",
+    "example": "The company opened a new branch.",
+    "example_jp": "その会社は新しい支店を開設した。"
+  },
+  {
+    "word": "budget",
+    "meaning": "予算",
+    "level": "高校",
+    "eiken": "2級",
+    "toeic": 700,
+    "partOfSpeech": "名詞",
+    "example": "We need to reduce the budget.",
+    "example_jp": "私たちは予算を削減する必要がある。"
+  },
+  {
+    "word": "deadline",
+    "meaning": "締切",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 650,
+    "partOfSpeech": "名詞",
+    "example": "The deadline is tomorrow.",
+    "example_jp": "締切は明日です。"
+  },
+  {
+    "word": "immediate",
+    "meaning": "即座の",
+    "level": "高校",
+    "eiken": "2級",
+    "toeic": 700,
+    "partOfSpeech": "形容詞",
+    "example": "We need immediate action.",
+    "example_jp": "私たちは即座の対応が必要だ。"
+  },
+  {
+    "word": "request",
+    "meaning": "依頼",
+    "level": "高校",
+    "eiken": "準2級",
+    "toeic": 650,
+    "partOfSpeech": "名詞",
+    "example": "I received your request.",
+    "example_jp": "あなたの依頼を受け取りました。"
   }
 ]
