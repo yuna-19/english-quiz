@@ -10,13 +10,19 @@
       margin-top: 50px;
     }
 
-    button {
-      display: block;
-      width: 200px;
-      margin: 10px auto;
-      padding: 10px;
-      font-size: 16px;
-    }
+    #choices {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.choice-btn {
+  padding: 15px;
+  font-size: 18px;
+  cursor: pointer;
+}
 
     #word {
       font-size: 36px;
